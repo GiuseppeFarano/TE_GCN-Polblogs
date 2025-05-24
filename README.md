@@ -37,13 +37,12 @@ A novel architecture is introduced to leverage GCN and adapt them to this datase
 After training the model, evaluation metrics were computed on the train set. Here are showed results.
 
 <div align="center">
-  <img src="static/cm.JPG" alt="Confusion Matrix" width="50%"/>
+  <img src="static/cm.JPG" alt="Confusion Matrix" width="40%"/>
 </div>
 
 <div align="center">
   <img src="static/metrics.JPG" alt="Classification metrics" width="50%"/>
 </div>
----
 
 ## 🚀 Usage
 
