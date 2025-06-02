@@ -48,8 +48,8 @@ After training the model, evaluation metrics were computed on the train set. Her
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/GiuseppeFarano/polblogs_classification_with_GCN.git
-cd polblogs_classification_with_GCN
+git clone https://github.com/GiuseppeFarano/polblogs-classification-with-GCN.git
+cd polblogs-classification-with-GCN
  ```
 2. Load the TE_GCN.ypnb script in order to interact with the data and the model
 ---
